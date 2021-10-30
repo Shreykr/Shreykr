@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreyas K R</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [MeetingBee](http://meetingbee.netlify.app)
+- 🔭 I’m currently working on [MeetingBee](http://meeting-bee-app.netlify.app)
 
-- 🌱 I’m currently learning **React, GraphQL**
+- 🌱 I’m currently learning **Tailwind CSS, Saas, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shreykr?tab=repositories](https://github.com/Shreykr?tab=repositories)
 
@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **shreyaskr1022@gmail.com**
 
-<p>&nbsp;<img style='margin: 20px' src="https://github-readme-stats.vercel.app/api?username=shreykr&show_icons=true&locale=en" alt="shreykr" /></p>
+<p>&nbsp;<img style='margin: 20px' align="center" src="https://github-readme-stats.vercel.app/api?username=shreykr&show_icons=true&locale=en" alt="shreykr" /></p>
 
-<p><img style='margin: 20px'src="https://github-readme-streak-stats.herokuapp.com/?user=shreykr&theme=dark" alt="shreykr" /></p><br>
+<p><img align="center" style='margin: 20px'src="https://github-readme-streak-stats.herokuapp.com/?user=shreykr&theme=dark" alt="shreykr" /></p><br>
 
 <h3 align="left"> 👨‍💻 Technologies</h3>
 
