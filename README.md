@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **shreyaskr1022@gmail.com**
 
-<p>&nbsp;<img style='margin: 20px' align="center" src="https://github-readme-stats.vercel.app/api?username=shreykr&show_icons=true&locale=en" alt="shreykr" /></p>
+<p>&nbsp;<img style='margin: auto' align="center" src="https://github-readme-stats.vercel.app/api?username=shreykr&show_icons=true&locale=en" alt="shreykr" /></p>
 
-<p><img align="center" style='margin: 20px'src="https://github-readme-streak-stats.herokuapp.com/?user=shreykr&theme=dark" alt="shreykr" /></p><br>
+<p><img align="center" style='margin: auto'src="https://github-readme-streak-stats.herokuapp.com/?user=shreykr&theme=dark" alt="shreykr" /></p><br>
 
 <h3 align="left"> 👨‍💻 Technologies</h3>
 
