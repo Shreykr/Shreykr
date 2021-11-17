@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MeetingBee](http://meeting-bee-app.netlify.app)
 
-- 🌱 I’m currently learning **Tailwind CSS, Saas, React**
+- 🌱 I’m currently learning **Tailwind CSS, Sass, Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shreykr?tab=repositories](https://github.com/Shreykr?tab=repositories)
 
