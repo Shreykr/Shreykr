@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyas K R</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [MeetingBee](http://meeting-bee-app.netlify.app)
+- 🔭 I’m currently working on [Projects at frontendmentor.io](https://www.frontendmentor.io/challenges)
 
 - 🌱 I’m currently learning **Tailwind CSS, Sass, Redux**
 
