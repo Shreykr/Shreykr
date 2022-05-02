@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Challenges at frontendmentor.io](https://www.frontendmentor.io/challenges)
 
-- 🌱 I’m currently learning **Tailwind CSS, Sass, Redux, Threejs**
+- 🌱 I’m currently learning **Sass, Threejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shreykr?tab=repositories](https://github.com/Shreykr?tab=repositories)
 
